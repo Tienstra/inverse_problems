@@ -1,3 +1,0 @@
-# Presentation and report
-
-Latex
